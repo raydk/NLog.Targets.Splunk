@@ -13,8 +13,11 @@
     <PackageLicenseUrl>https://github.com/AlanBarber/NLog.Targets.Splunk/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>git://github.com/AlanBarber/NLog.Targets.Splunk</RepositoryUrl>
-	<Version>1.1.0</Version>
-    <PackageReleaseNotes>Version 1.1.0
+	<Version>1.1.1</Version>
+    <PackageReleaseNotes>Version 1.1.1
+- Changed DLL to Release mode
+Version 1.1.0
+Version 1.1.0
 - Updated Newtonsoft.Json to v12.0.3
 - Enabled TLS 1.2 to allow older versions of .NET framework to create requests for Splunk 
 Verison 1.0.0
@@ -22,8 +25,8 @@ Verison 1.0.0
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>sn.snk</AssemblyOriginatorKeyFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <AssemblyVersion>1.1.0.0</AssemblyVersion>
-    <FileVersion>1.1.0.0</FileVersion>
+    <AssemblyVersion>1.1.1.0</AssemblyVersion>
+    <FileVersion>1.1.1.0</FileVersion>
     <PackageId>NLogSplunkTarget</PackageId>
   </PropertyGroup>
 
